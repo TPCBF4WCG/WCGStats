@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="WCG.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="1"/>
+        <CursorPos X="3"/>
+        <UsageCount Value="215"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="wcgprocesshistorymain.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="Form1"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="WCGProcessHistoryMain"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="398"/>
+        <CursorPos X="27" Y="473"/>
+        <UsageCount Value="215"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="C:\lazarus\lcl\lclmessageglue.pas"/>
+        <UnitName Value="LCLMessageGlue"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="99"/>
+        <CursorPos Y="116"/>
+        <UsageCount Value="6"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="29">
+      <Position>
+        <Filename Value="wcgprocesshistorymain.pas"/>
+        <Caret Line="94" Column="16" TopLine="71"/>
+      </Position>
+      <Position>
+        <Filename Value="wcgprocesshistorymain.pas"/>
+        <Caret Line="201" Column="29" TopLine="172"/>
+      </Position>
+      <Position>
+        <Filename Value="wcgprocesshistorymain.pas"/>
+        <Caret Line="200" Column="13" TopLine="376"/>
+      </Position>
+      <Position>
+        <Filename Value="wcgprocesshistorymain.pas"/>
+        <Caret Line="175" Column="14" TopLine="157"/>
+      </Position>
+      <Position>
+        <Filename Value="wcgprocesshistorymain.pas"/>
+        <Caret Line="190" Column="14" TopLine="161"/>
+      </Position>
+      <Position>
+        <Filename Value="wcgprocesshistorymain.pas"/>
+        <Caret Line="245" Column="72" TopLine="217"/>
+      </Position>
+      <Position>
+        <Filename Value="wcgprocesshistorymain.pas"/>
+        <Caret Line="291" Column="18" TopLine="262"/>
+      </Position>
+      <Position>
+        <Filename Value="wcgprocesshistorymain.pas"/>
+        <Caret Line="303" Column="25" TopLine="284"/>
+      </Position>
+      <Position>
+        <Filename Value="wcgprocesshistorymain.pas"/>
+        <Caret Line="395" Column="18" TopLine="366"/>
+      </Position>
+      <Position>
+        <Filename Value="wcgprocesshistorymain.pas"/>
+        <Caret Line="175" Column="14" TopLine="157"/>
+      </Position>
+      <Position>
+        <Filename Value="wcgprocesshistorymain.pas"/>
+        <Caret Line="13" Column="112"/>
+      </Position>
+      <Position>
+        <Filename Value="wcgprocesshistorymain.pas"/>
+        <Caret Line="175" Column="16" TopLine="146"/>
+      </Position>
+      <Position>
+        <Filename Value="wcgprocesshistorymain.pas"/>
+        <Caret Line="190" Column="16" TopLine="161"/>
+      </Position>
+      <Position>
+        <Filename Value="wcgprocesshistorymain.pas"/>
+        <Caret Line="219" Column="17" TopLine="211"/>
+      </Position>
+      <Position>
+        <Filename Value="wcgprocesshistorymain.pas"/>
+        <Caret Line="245" Column="72" TopLine="217"/>
+      </Position>
+      <Position>
+        <Filename Value="wcgprocesshistorymain.pas"/>
+        <Caret Line="219" Column="18" TopLine="202"/>
+      </Position>
+      <Position>
+        <Filename Value="wcgprocesshistorymain.pas"/>
+        <Caret Line="245" Column="72" TopLine="217"/>
+      </Position>
+      <Position>
+        <Filename Value="wcgprocesshistorymain.pas"/>
+        <Caret Line="291" Column="18" TopLine="262"/>
+      </Position>
+      <Position>
+        <Filename Value="wcgprocesshistorymain.pas"/>
+        <Caret Line="297" Column="25" TopLine="268"/>
+      </Position>
+      <Position>
+        <Filename Value="wcgprocesshistorymain.pas"/>
+        <Caret Line="303" Column="25" TopLine="274"/>
+      </Position>
+      <Position>
+        <Filename Value="wcgprocesshistorymain.pas"/>
+        <Caret Line="395" Column="18" TopLine="366"/>
+      </Position>
+      <Position>
+        <Filename Value="wcgprocesshistorymain.pas"/>
+        <Caret Line="175" Column="16" TopLine="157"/>
+      </Position>
+      <Position>
+        <Filename Value="wcgprocesshistorymain.pas"/>
+        <Caret Line="190" Column="16" TopLine="161"/>
+      </Position>
+      <Position>
+        <Filename Value="wcgprocesshistorymain.pas"/>
+        <Caret Line="245" Column="72" TopLine="217"/>
+      </Position>
+      <Position>
+        <Filename Value="wcgprocesshistorymain.pas"/>
+        <Caret Line="291" Column="18" TopLine="262"/>
+      </Position>
+      <Position>
+        <Filename Value="wcgprocesshistorymain.pas"/>
+        <Caret Line="297" Column="25" TopLine="268"/>
+      </Position>
+      <Position>
+        <Filename Value="wcgprocesshistorymain.pas"/>
+        <Caret Line="303" Column="25" TopLine="274"/>
+      </Position>
+      <Position>
+        <Filename Value="wcgprocesshistorymain.pas"/>
+        <Caret Line="395" Column="18" TopLine="366"/>
+      </Position>
+      <Position>
+        <Filename Value="wcgprocesshistorymain.pas"/>
+        <Caret Line="488" TopLine="460"/>
+      </Position>
+      <Position>
+        <Filename Value="wcgprocesshistorymain.pas"/>
+        <Caret Line="483" TopLine="457"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+  <Debugging>
+    <BreakPoints>
+      <Item>
+        <Kind Value="bpkSource"/>
+        <WatchScope Value="wpsLocal"/>
+        <WatchKind Value="wpkWrite"/>
+        <Source Value="C:\lazarus\lcl\lclmessageglue.pas"/>
+        <Line Value="130"/>
+      </Item>
+    </BreakPoints>
+    <Watches>
+      <Item>
+        <Expression Value="S"/>
+        <DisplayStyle Value="wdfString"/>
+      </Item>
+      <Item>
+        <Expression Value="F"/>
+      </Item>
+      <Item>
+        <Expression Value="Count"/>
+      </Item>
+      <Item>
+        <Expression Value="p"/>
+      </Item>
+      <Item>
+        <Expression Value="i"/>
+      </Item>
+      <Item>
+        <Expression Value="WU"/>
+      </Item>
+    </Watches>
+  </Debugging>
+</CONFIG>

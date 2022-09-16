@@ -1,0 +1,162 @@
+object Form1: TForm1
+  Left = 256
+  Height = 818
+  Top = 145
+  Width = 1544
+  Caption = 'Form1'
+  ClientHeight = 818
+  ClientWidth = 1544
+  Menu = MainMenu1
+  LCLVersion = '2.2.2.0'
+  object StatusBar1: TStatusBar
+    Left = 0
+    Height = 23
+    Top = 795
+    Width = 1544
+    Panels = <>
+  end
+  object StringGrid1: TStringGrid
+    Left = 16
+    Height = 544
+    Top = 208
+    Width = 1520
+    ColCount = 17
+    Columns = <    
+      item
+        Title.Caption = 'App'
+      end    
+      item
+        Title.Caption = 'Claimed'
+      end    
+      item
+        Title.Caption = 'CPU Hours'
+      end    
+      item
+        Title.Caption = 'Device Name'
+      end    
+      item
+        Title.Caption = 'Due Date'
+      end    
+      item
+        Title.Caption = 'Elapsed Time'
+      end    
+      item
+        Title.Caption = 'Granted'
+      end    
+      item
+        Title.Caption = 'OS'
+      end    
+      item
+        Title.Caption = 'Version'
+      end    
+      item
+        Title.Caption = 'owned?'
+      end    
+      item
+        Title.Caption = 'Result ID'
+      end    
+      item
+        Title.Caption = 'Result Name'
+      end    
+      item
+        Title.Caption = 'Returned Time'
+      end    
+      item
+        Title.Caption = 'Sent Time'
+      end    
+      item
+        Title.Caption = 'Status'
+      end    
+      item
+        Title.Caption = 'Status Name'
+      end    
+      item
+        Title.Caption = 'Workunit ID'
+      end>
+    DefaultColWidth = 80
+    FixedColor = clInfoBk
+    FixedCols = 0
+    MouseWheelOption = mwGrid
+    RowCount = 1
+    TabOrder = 1
+  end
+  object FileNameEdit1: TFileNameEdit
+    Left = 16
+    Height = 23
+    Top = 16
+    Width = 328
+    FileName = 'history.txt'
+    FilterIndex = 0
+    HideDirectories = False
+    ButtonWidth = 23
+    NumGlyphs = 1
+    MaxLength = 0
+    TabOrder = 2
+    OnChange = FileNameEdit1Change
+    Text = 'history.txt'
+  end
+  object BitBtn1: TBitBtn
+    Left = 1416
+    Height = 30
+    Top = 760
+    Width = 75
+    Caption = 'EXIT'
+    Font.CharSet = ANSI_CHARSET
+    Font.Height = -15
+    Font.Pitch = fpVariable
+    Font.Quality = fqDraft
+    Font.Style = [fsBold]
+    OnClick = BitBtn1Click
+    ParentFont = False
+    TabOrder = 3
+  end
+  object BitBtn2: TBitBtn
+    Left = 360
+    Height = 32
+    Top = 8
+    Width = 120
+    Caption = 'Read/Merge'
+    Font.CharSet = ANSI_CHARSET
+    Font.Height = -15
+    Font.Pitch = fpVariable
+    Font.Quality = fqDraft
+    Font.Style = [fsBold]
+    OnClick = BitBtn2Click
+    ParentFont = False
+    TabOrder = 4
+  end
+  object BitBtn3: TBitBtn
+    Left = 504
+    Height = 30
+    Top = 10
+    Width = 96
+    Caption = 'Read Stats'
+    Font.CharSet = ANSI_CHARSET
+    Font.Height = -15
+    Font.Pitch = fpVariable
+    Font.Quality = fqDraft
+    Font.Style = [fsBold]
+    OnClick = BitBtn3Click
+    ParentFont = False
+    TabOrder = 5
+  end
+  object BitBtn4: TBitBtn
+    Left = 360
+    Height = 32
+    Top = 48
+    Width = 123
+    Caption = 'Batch Read'
+    Font.CharSet = ANSI_CHARSET
+    Font.Height = -15
+    Font.Pitch = fpVariable
+    Font.Quality = fqDraft
+    Font.Style = [fsBold]
+    OnClick = BitBtn4Click
+    ParentFont = False
+    TabOrder = 6
+  end
+  object MainMenu1: TMainMenu
+    Left = 1296
+    Top = 760
+  end
+end
